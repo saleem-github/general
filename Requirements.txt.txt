@@ -1,0 +1,43 @@
+
+1.install Git (v 1.9.1)
+   sudo apt-get install git
+
+2.Python 2.7.6 ( for ubuntu 14.04 it is inbuilt)
+
+3.install pip
+    sudo apt-get install python-pip
+
+4.install Pulp(v 1.5.6)
+   sudo easy_install -U pulp
+
+
+5.Install GLPK(v 4.52)
+   sudo apt-get install python-glpk
+
+6.install Django (v 1.4.11) 
+   sudo pip install django=="1.4.11"
+
+7.install Django rest frame work(v 3.0.1)
+   pip install djangorestframework
+
+8. to install reportlab
+   sudo apt-get install python-dev
+   sudo pip install reportlab
+ execute following commands
+  sudo pip uninstall pillow
+  sudo pip uninstall Pillow
+  sudo sudo apt-get install libjpeg-dev zlib1g-dev
+  sudo pip install -I Pillow
+
+9.To Install postgres ( v9.3)
+   sudo apt-get install postgresql postgresql-contrib
+
+
+sudo apt-get update
+sudo apt-get install build-essential linux-headers-$(uname -r)
+sudo apt-get install virtualbox-ose-guest-x11
+
+sudo apt-get install python-psycopg2
+
+
+ 
